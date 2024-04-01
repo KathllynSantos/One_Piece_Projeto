@@ -7,11 +7,11 @@ Este é mais um repositório da Semana do Zero ao Programador Contratado, promov
 
 Gosto muito de participar de todos os desafios que o **Dev em Dobro** desenvolve, e este projeto foi uma oportunidade incrível para explorar novas ideias e habilidades. Sinta-se à vontade para explorar o código e as informações disponíveis aqui!
 
-## Sobre o Projeto "On Piece"
+## Sobre o Projeto "One Piece"
 
 "One Piece" é um projeto desenvolvido como parte da Semana do Zero ao Programador Contratado. Neste repositório, você encontrará:
 
-- **Seleções de Personagens**: Informações detalhadas sobre os personagens principais do universo "On Piece".
+- **Seleções de Personagens**: Informações detalhadas sobre os personagens principais do universo "One Piece".
   
 - **Leading Page**: A página inicial do projeto, apresentando uma visão geral e acesso rápido às seções principais.
 
